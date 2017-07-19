@@ -4,6 +4,7 @@ applications:
   memory: 512M
   stack: windows2012R2
   health-check-type: none
+  random-route: true
   command: cmd /c .\Fortune-Teller-UI --server.urls http://*:%PORT%
   env:
     ASPNETCORE_ENVIRONMENT: development
