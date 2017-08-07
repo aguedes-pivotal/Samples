@@ -14,7 +14,6 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="1.1.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="1.1.0" />
     <PackageReference Include="Pivotal.Discovery.Client" Version="1.1.0-rc2" />
-    <PackageReference Include="HdrHistogram" Version="2.0.0" />
     <PackageReference Include="Steeltoe.CircuitBreaker.Hystrix" Version="1.1.0-rc2" />
   </ItemGroup>
 
